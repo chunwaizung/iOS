@@ -465,3 +465,6 @@ NSManagedObjectContext负责应用和数据库之间的交互工作，通过NSMa
 - 关于重用cell：重用时不会清除附在cell中的其它UI控件
 - 使用代码的方式添加双击手势，而不是使用IB添加到cell上。双击手势直接添加到collectionview
  
+断点调试
+
+viewWillAppear&viewDidAppear
